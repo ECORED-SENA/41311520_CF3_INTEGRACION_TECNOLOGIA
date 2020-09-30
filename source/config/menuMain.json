@@ -1,0 +1,38 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },
+  {
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","introduccion"],
+    "path": "pages/1-tema.html"
+  },
+  {
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "medios",
+    "title": "3. Medios para la producción de contenidos digitales",
+    "breadcrumb": ["Inicio","medios"],
+    "path": "pages/2-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "medios",
+        "title": "Texto",
+        "anchor": "texto"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "medios",
+        "title": "Netiqueta",
+        "anchor": "netiqueta"
+      }
+    ]
+  }
+]
