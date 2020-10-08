@@ -17,20 +17,20 @@
     "id": 1,
     "icon": "fa fa-file-text",
     "slug": "medios",
-    "title": "3. Medios para la producción de contenidos digitales",
+    "title": "1. Medios para la producción de contenidos digitales",
     "breadcrumb": ["Inicio","medios"],
     "path": "pages/2-tema.html",
     "submenu": [
       {
         "icon": "fa fa-file-text",
         "slug": "medios",
-        "title": "3.1 Texto",
+        "title": "1.1 Texto",
         "anchor": "texto"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "medios",
-        "title": "3.2 Netiqueta",
+        "title": "1.2 Netiqueta",
         "anchor": "netiqueta"
       }
     ]
