@@ -24,13 +24,13 @@
       {
         "icon": "fa fa-file-text",
         "slug": "medios",
-        "title": "Texto",
+        "title": "3.1 Texto",
         "anchor": "texto"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "medios",
-        "title": "Netiqueta",
+        "title": "3.2 Netiqueta",
         "anchor": "netiqueta"
       }
     ]
